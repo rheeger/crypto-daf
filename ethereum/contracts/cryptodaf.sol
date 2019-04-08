@@ -22,11 +22,10 @@ contract DAFfactory {
 //         return deployed501c3s;
 //     }
 
-// }
-
-// contract A501c3 {
-    
 }
+
+// contract A501c3 {}
+    
 
 contract DAF {
     struct Grant {
